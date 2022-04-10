@@ -1,1 +1,1 @@
-# Prototype
+# AVATARS Clickable Prototype Demonstration
